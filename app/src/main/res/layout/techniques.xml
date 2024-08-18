@@ -1,2 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent"/>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="402dp"
+        android:layout_height="573dp"
+        tools:layout_editor_absoluteX="4dp"
+        tools:layout_editor_absoluteY="122dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="match_parent"
+                android:layout_height="650dp"
+                android:text=" ​“Mental health&quot; refers to your overall psychological well-being. It includes the way you feel about yourself, the quality of your relationships, and your ability to manage your feelings and deal with difficulties.  Anyone can experience mental or emotional health problems — and over a lifetime, many of us will. According to the Centre for Addiction and Mental Health, one in five Canadians experiences a mental illness in any given year. And by the time Canadians reach 40 years old, one in two people have, or have had, a mental illness.  While they're not substitutes for advice or care from qualified health professionals (see the end of the article for programs and resources), these tips can help you elevate your mood, become more resilient and enjoy life more.  1. Make social connection — especially face-to-face — a priority Phone calls and social networks have their place, but few things can beat the stress-busting, mood-boosting power of quality face-to-face time with other people, especially those you love and people who energize you. For several years, COVID-19 significantly limited this opportunity, however as restrictions continue to lift, this may be a good time to rebuild safe in-person interactions.  2. Stay active Staying active is as good for the brain as it is for the body. Regular exercise or activity can have a major impact on your mental and emotional health, relieve stress, improve memory, and help you sleep better.  3. Talk to someone Talk to a friendly face. If you have concerns, stresses or worries, sharing these with someone who cares is one of the most effective ways to calm your nervous system and relieve stress. And vice versa: Sometimes listening to others in a safe and supported way can help you develop wider perspectives. It is important that both parties feel comfortable to share and hear each other's thoughts, and if the worries are beyond this, consider speaking to a professional (see programs and resources at the end of the article).  4. Appeal to your senses Does listening to an uplifting song make you feel calm? Does squeezing a stress ball help you feel centred? What about taking a walk in nature and enjoying the sights and sounds of the trees? Everyone responds to sensory input a little differently, so experiment with healthy sensory inputs (rather than unhealthy sensory inputs) to find what works best for you.  5. Take up a relaxation practice Yoga, mindfulness, meditation and deep breathing can help reduce overall levels of stress.  6. Make leisure and contemplation a priority We can all be guilty of being &quot;too busy&quot; to take some downtime, but leisure time is a necessity for emotional and mental health. Take some time to relax, contemplate, and pay attention to the positive things as you go about your day — even the small things. Write them down if you can, because they can be easy to forget. Then reflect on them later if your mood is in need of a boost.  7. Eat a brain-healthy diet to support strong mental health Foods that may support your mood include beans, legumes (e.g., lentils), fatty fish rich in omega-3s, nuts (e.g., walnuts, almonds, cashews and peanuts), avocados, dark leafy greens (e.g., spinach, kale and Brussels sprouts), and fruit (e.g., blueberries). Dark chocolate has also been found to be potentially beneficial for mental health. For the best dietary and nutritional advice, talk to a registered dietician.  8. Don't skimp on sleep It matters more than many people think. Sleep is our body and mind's best way to recharge and rejuvenate. One way to get sleep better is to take a break from the stimulation of screens — TV, phones, tablets or computers — in the hours before bedtime. Consider reading or listening to relaxing music instead.  9. Find purpose and meaning This is different for everyone, but finding purpose in your day is a big factor to good mental health. You might try one of the following:  Engage in work and play that makes you feel useful Invest in relationships and spend quality time with people who matter to you Volunteer, which can help enrich your life and make you happier Find ways to care for others, which can be as rewarding and meaningful as it is challenging Think of one good deed or gesture to do each day" />
+        </LinearLayout>
+    </ScrollView>
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Techniques"
+        android:textSize="50dp"
+        tools:layout_editor_absoluteX="78dp"
+        tools:layout_editor_absoluteY="28dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
