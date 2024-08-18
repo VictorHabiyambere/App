@@ -91,7 +91,6 @@ public class chat extends AppCompatActivity {
                 display.setPadding(30, 30, 30, 30);
                 display.setTextColor((ContextCompat.getColor(chat.this, R.color.black)));
                 //Images take first priority when set
-                DatabaseReference db = FirebaseDatabase.getInstance().getReference().child("Communities").child(join.ID_).child("Messages");
                 linearLayout.addView(display);
                 View view1 = new View(getApplicationContext());
                 view1.setMinimumHeight(15);
