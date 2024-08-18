@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "505898262800",
+    "project_id": "mental-health-36536",
+    "storage_bucket": "mental-health-36536.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505898262800:android:52403aed42148354a28595",
+        "android_client_info": {
+          "package_name": "com.ignition.hackathon_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4OhncMfY8OhkFBCfwpw6lnXGEEUcCJT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

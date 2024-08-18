@@ -1,0 +1,18 @@
+package com.google.android.gms.internal.ads;
+
+import android.content.Context;
+
+/* compiled from: com.google.android.gms:play-services-ads@@23.2.0 */
+public final class zzcba implements zzhkp {
+    private final zzhlg zza;
+    private final zzhlg zzb;
+
+    public zzcba(zzhlg zzhlg, zzhlg zzhlg2) {
+        this.zza = zzhlg;
+        this.zzb = zzhlg2;
+    }
+
+    public final /* bridge */ /* synthetic */ Object zzb() {
+        return new zzcaz((Context) this.zza.zzb(), ((zzcal) this.zzb).zzb());
+    }
+}
